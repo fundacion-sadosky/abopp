@@ -1,8 +1,11 @@
 # ABO++
+> Por consultas, correcciones, sugerencias, o cualquier comentario relacionado a la guía, pueden mandar un mail a abarreal@fundacionsadosky.org.ar.
+
+---
 
 ## Introducción
 
-Este repositorio contiene ejercicios varios de explotación de binarios, abarcando distintas técnicas y distintos temas. Adicionalmente, cada ejercicio cuenta con su correspondiente resolución. Hay también información teórica complementaria y referencias a recursos externos.
+Este repositorio contiene ejercicios varios sobre explotación de vulnerabilidades de corrupción de memoria, abarcando distintas técnicas y distintos temas teóricos. Adicionalmente, cada ejercicio cuenta con su correspondiente resolución.
 
 La idea de este material es que sea complementario a la [guía de escritura de exploits](https://fundacion-sadosky.github.io/guia-escritura-exploits/) de Teresa Alberto, basada en los [ABOs de Gerardo Richarte](https://github.com/gerasdf/InsecureProgramming). El objetivo de ABO++ es proveer material adicional que permita adquirir los conocimientos y las destrezas necesarias para encontrar y explotar vulnerabilidades de corrupción de memoria en entornos modernos, con herramientas modernas utilizadas en la industria hoy en día.
 
