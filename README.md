@@ -1,5 +1,7 @@
 # ABO++
-> Por consultas, correcciones, sugerencias, o cualquier comentario relacionado a la guía, pueden mandar un mail a abarreal@fundacionsadosky.org.ar.
+STIC, Fundación Sadosky
+
+> Por consultas, correcciones, sugerencias, o cualquier comentario relacionado a la guía, pueden mandar un mail a  abarreal@fundacionsadosky.org.ar. Agradecimientos especiales a Juan Heguiabehere y a Teresa Alberto de STIC por sus aportes para mejorar el material.
 
 ---
 
