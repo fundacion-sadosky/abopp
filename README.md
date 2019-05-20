@@ -3,6 +3,8 @@ STIC, Fundación Sadosky
 
 > Por consultas, correcciones, sugerencias, o cualquier comentario relacionado a la guía, pueden mandar un mail a  abarreal@fundacionsadosky.org.ar. Agradecimientos especiales a Juan Heguiabehere y a Teresa Alberto de STIC por sus aportes para mejorar el material.
 
+> **Parte 2**: La segunda parte de la guía fue recientemente publicada, al 20 de mayo de 2019. Los ejercicios y la teoría en esta segunda parte son inherentemente más complicados que los de la primera, técnica y conceptualmente; como siempre, cualquier consulta o corrección es bienvenida y agradecida, y ayuda a mejorar el material.
+
 ---
 
 ## Introducción
